@@ -1,6 +1,10 @@
 # zap_combine
 Bandpass correct, RFI zap, and combine two pols 
 
+## Requirements 
+
+This requires the python package `your`:  https://github.com/thepetabyteproject/your
+
 
 ## Usage
     
